@@ -4,7 +4,7 @@ This project is a static website built with Astro for **Saykan Combat Sports**, 
 It was created as part of a college assignment to demonstrate front-end structure, layout, and styling using a modern static site framework.
 
 🔗 Live site:  
-https://silv3rp.github.io/Astro-Static-Project/
+https://ColmN-Dev.github.io/Astro-Static-Project/
 
 ---
 
@@ -35,4 +35,4 @@ No backend, database, or form processing is included, as this was outside the sc
 
 ## Author
 
-Colm Nolan/Silv3rP
+Colm Nolan/ColmN-Dev
